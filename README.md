@@ -2,11 +2,14 @@
 
 ![HooBank Website Screenshot](/screenshot.png)
 
+[View the website here](https://hoobank-dove.netlify.app/)
+
 ### Technical Stack
 
 - React
 - Vite
 - Tailwind
+- Netlify
 
 ### Credits
 
